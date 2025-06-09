@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>programming BisDig.</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class="wrapper">
+            <div class="logo"><a href="">Pemerintah wakanda.</a></div>
+            <div class="menu">
+                <ul>
+                    <li><a href="BisDig.html">Home</a></li>
+                    <li><a href="index.html">kategori</a></li>
+                    <li><a href="kontak.html">kontak</a></li>
+                    <li><a href="tugas.html">Tugas</a></li>
+                    <li><a href="" class="tbl-biru">sign up</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="wrapper">
+        <!-- untuk home -->
+        <section id="home">
+            <img src="kominfo.png" width="250px" height="270px"/>
+            <div class="kolom">
+                <p class="deskripsi">Youkoso, Para Pengujung prodi BisDig</p>
+                <h2>Selamat Datang Di Website Kami</h2>
+                <p> Anata wa tōten no hajimete no hōmon-shadesu. Tōsha no u~ebusaito ni taisuru hyōka o onegaishimasu!</p>
+                <p><a href="" class="tbl-pink">Pelajari Selanjutnya!</a></p>
+            </div>
+        </section>
+
+         <!--logo title-->
+    <link rel="icon" href="kominfo.png"
+    type="image/x-icon">
+        <!-- untuk kategori -->
+        <section id="kategori">
+            <div class="kolom">
+                <p class="deskripsi">Omae Pasti Memerlukan Ini!!</p>
+                <h2>kategori</h2>
+                <p> Tsubete no ymir tameni tsugu Senkou wa dejitaru bisinesu desu shiso no kyojin chikara kaishi.!</p>
+            </div>
+            <img src="https://img.freepik.com/free-vector/female-student-listening-webinar-online_74855-6461.jpg?w=900&t=st=1702814508~exp=1702815108~hmac=c67aecce4b14c77430e2359a4409ff30ac2c71e926b531463b77825dea4af293"/>
+        </section>
+    </div>
+</body>
+</html>
